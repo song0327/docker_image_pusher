@@ -1,1 +1,1 @@
---platform=node
+redis:latest
