@@ -1,1 +1,1 @@
-Qwen/Qwen3-Next-80B-A3B-Instruct
+--platform=Qwen/Qwen3-Next-80B-A3B-Instruct
