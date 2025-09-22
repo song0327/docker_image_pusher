@@ -1,2 +1,2 @@
 alpine
-node:lastest
+node:18
